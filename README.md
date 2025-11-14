@@ -8,7 +8,7 @@ The following datasets are derived from the original pan-cancer data. These are 
 - <a href = "https://drive.google.com/file/d/1CR6wCbfdfqR3Dg7oZDtAy8kJPxD09RG4/view">Kidney Dataset </a> : This data consists of 3 different subtypes of kidney cancer (KICH, KIRC, KIRP). It contains 879 cancer samples and 130 normal samples.  
 - <a href = "https://drive.google.com/file/d/1JaNfq2m87z1KtuFZrNWRvS-AbkmXK_49/view">Classified Pan-cancer (CPS) Dataset </a> : This classified pan-cancer data consists of 10349 samples derived from 33 different types of cancer.
 
-## Steps to Run ICNNM
+## Steps to Run MOHCNN-STEAAS
 1. Open Python and install the packages **numpy**, **math**, **csv**, **pandas**, **sklearn**, **matplotlib**, **time**, **scipy**, **tensorflow**, .  
 (Use command `pip install package_name` e.g., `pip install pandas`.  
 In higher versions of Python, use `pip3` in place of `pip`.)  
