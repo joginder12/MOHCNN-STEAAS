@@ -15,7 +15,7 @@ In higher versions of Python, use `pip3` in place of `pip`.)
 * In Windows environment, if **Spyder** is used for Python, then one has to install the **pip** package first using the command  
   `"python get-pip.py"`  
 
-2. Download the code for **MOHCNN** from: <a href = "https://drive.google.com/file/d/1d7UlNHs6cq7xx-Gf5wCY70f3xR6PwYhv/view?usp=drive_link">`MOHCNN.py` </a>
+2. Download the code for **MOHCNN** from: <a href = "https://drive.google.com/drive/folders/1WzisceKV4KLYaSqQ_oz806uCzi7ouc1d">`MOHCNN.py` </a>
 
 3. Download the code for **STEAAS** from: <a href = "https://drive.google.com/file/d/1Lj_acADTTKgjee9F45XMHz1I3UeNQruF/view?usp=drive_link">`STEAAS.py` </a>    
 
