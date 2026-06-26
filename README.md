@@ -7,7 +7,7 @@ The following datasets are derived from the original pan-cancer data. These are 
 - <a href = "https://github.com/joginder12/MOHCNN-STEAAS/blob/main/Lung_Subtype.csv">Lung Dataset </a> : This data consists of 2 different subtypes of lung cancer (LUAD, LUSC). It consists of 996 cancer samples and 91 normal samples.  
 - <a href = "https://github.com/joginder12/MOHCNN-STEAAS/blob/main/Kidney_subtype.csv">Kidney Dataset </a> : This data consists of 3 different subtypes of kidney cancer (KICH, KIRC, KIRP). It contains 879 cancer samples and 130 normal samples.  
 - <a href = "https://github.com/joginder12/MOHCNN-STEAAS/blob/main/CPCNS.csv">Classified Pan-cancer and normal samples (CPCNS) Dataset </a> : This classified pan-cancer data consists of 11019 samples derived from 33 different types of cancer and one normal class.
-- <a href = "https://drive.google.com/drive/u/1/home">Classified Pan-cancer samples (CPCS) Dataset </a> : This classified pan-cancer data consists of 10349 samples derived from 33 different types of cancer.
+- <a href = "https://drive.google.com/file/d/1wBcCt_yIXQxxC3Cah_u-5jMOO71pk_r2/view?usp=sharing">Classified Pan-cancer samples (CPCS) Dataset </a> : This classified pan-cancer data consists of 10349 samples derived from 33 different types of cancer.
 
 ## Steps to Run MOHCNN-STEAAS
 1. Open Python and install the packages **numpy**, **math**, **csv**, **pandas**, **sklearn**, **matplotlib**, **time**, **scipy**, **tensorflow**, .  
